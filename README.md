@@ -1,0 +1,2 @@
+# Unit2-01-JS-HelloWorld
+[![GitHub's Super Linter](https://github.com/ICS20-Programming-SirineC/Unit2-01-JS-HelloWorld/tree/main/.github/workflows/workflows/GitHub's%20Super%20Linter/badge.svg)](https://github.com/ICS20-Programming-SirineC/Unit2-01-JS-HelloWorld/tree/main/.github/workflows/actions)
